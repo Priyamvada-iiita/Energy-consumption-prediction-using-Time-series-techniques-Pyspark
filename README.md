@@ -12,4 +12,4 @@ In general, the first method yields superior results, with GBT achieving an RMSE
 
 The initial data model leverages intelligent data connectivity to address the practical needs of major energy users, including appropriate products and electrical backup and storage systems for fire trucks. By carefully monitoring supply and time, we can predict demand accurately. However, due to limited data availability for our specific research, our focus lies in predicting future demand (customers), enabling us to organize resources and production to meet supply demands. Considering the significance of temperature and humidity in this process, factors like temperature, humidity, holidays, and festivals are incorporated. Multiple time comparison test samples can further enhance subsequent analyses.
 
-Refer Paper.pdf for more information
+Refer Group_10_C3_BDA_REPORT.pdf for more information
